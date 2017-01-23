@@ -1,0 +1,17 @@
+right();
+down();
+down();
+down();
+down();
+var c=getColor();
+down();
+setColor(c);
+right();
+right();
+up();
+right();
+var c=getColor();
+down();
+setColor(c);
+right();
+right();
